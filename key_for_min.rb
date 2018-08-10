@@ -3,4 +3,9 @@
 
 def key_for_min_value(name_hash)
 
+  name_hash.each_with_index do |(thing, value), index|
+  
+  if 
+ 
+ 
 end
